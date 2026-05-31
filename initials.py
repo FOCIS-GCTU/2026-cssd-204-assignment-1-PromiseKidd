@@ -1,7 +1,6 @@
 # File: initials.py
 # Description: Print out my initials in large stylized letters.
-# Assignment Number: 2
-#
+# Assignment Number: 1
 # Name: Theophilus Boadi Appiagyei
 # STUDENT ID: 2425401020
 # Email: boaditheophilus34@gmail.com
